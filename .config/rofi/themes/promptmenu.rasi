@@ -3,7 +3,7 @@
 * {
   /* General */
   text-font:                            "Comfortaa Bold 12";
-  icon-font:                            "feather 30";
+  icon-font:                            "feather 12";
 
   option-6-listview-spacing:            30px;
 
@@ -12,7 +12,7 @@
   menu-prompt-padding:                  10px 20px 15px 20px;
   menu-prompt-margin:                   0px;
   menu-element-border:                  0px 10px 0px 10px;
-  menu-element-padding:                 27px 16px 21px 0px;
+  menu-element-padding:                 27px 16px 23px 3px;
 }
 
 #window {
@@ -49,7 +49,7 @@
 }
 
 * {
-  font: @text-font;
+  font: @icon-font;
   location: center;
 }
 
